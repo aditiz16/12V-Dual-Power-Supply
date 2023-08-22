@@ -1,0 +1,12 @@
+Warning: Width correction constrained.  The width correction value must be in the range of [0.000001 mm; 0.199999 mm] for the current design rules.
+Plotted to 'F:\Git_hub_projects\12V-Dual-Power-Supply\Power_Supply_12V-F_Cu.gbr'.
+Plotted to 'F:\Git_hub_projects\12V-Dual-Power-Supply\Power_Supply_12V-B_Cu.gbr'.
+Plotted to 'F:\Git_hub_projects\12V-Dual-Power-Supply\Power_Supply_12V-F_Paste.gbr'.
+Plotted to 'F:\Git_hub_projects\12V-Dual-Power-Supply\Power_Supply_12V-B_Paste.gbr'.
+Plotted to 'F:\Git_hub_projects\12V-Dual-Power-Supply\Power_Supply_12V-F_Silkscreen.gbr'.
+Plotted to 'F:\Git_hub_projects\12V-Dual-Power-Supply\Power_Supply_12V-B_Silkscreen.gbr'.
+Plotted to 'F:\Git_hub_projects\12V-Dual-Power-Supply\Power_Supply_12V-F_Mask.gbr'.
+Plotted to 'F:\Git_hub_projects\12V-Dual-Power-Supply\Power_Supply_12V-B_Mask.gbr'.
+Plotted to 'F:\Git_hub_projects\12V-Dual-Power-Supply\Power_Supply_12V-Edge_Cuts.gbr'.
+Created Gerber job file 'F:\Git_hub_projects\12V-Dual-Power-Supply\Power_Supply_12V-job.gbrjob'.
+Info: Done.

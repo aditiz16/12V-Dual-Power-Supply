@@ -10,7 +10,7 @@ The **12V Dual Power Supply** is an electronic device that provides reliable and
 
 - [Features](#features)
 - [Applications](#applications)
-- [Schematic in KiCad](#schematic)
+<!-- - [Schematic in KiCad](#schematic)-->
 
 <!-- Features -->
 ## Features
@@ -29,8 +29,8 @@ The **12V Dual Power Supply** is an electronic device that provides reliable and
 
 
 <!-- Schematic -->
-## Schematic 
-![pcb schematic](https://github.com/aditiz16/12V-Dual-Power-Supply/assets/97452643/63d8d1d2-9e7c-4751-9835-7a03a8d1e8a4)
+<!--## Schematic 
+![pcb schematic](https://github.com/aditiz16/12V-Dual-Power-Supply/assets/97452643/63d8d1d2-9e7c-4751-9835-7a03a8d1e8a4)-->
 
 The 12V Dual Power Supply simplifies the process of powering and testing electronic circuits, offering stability, flexibility, and protection for a wide range of applications. 
 

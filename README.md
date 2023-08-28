@@ -42,10 +42,11 @@ The 12V Dual Power Supply simplifies the process of powering and testing electro
 
 ## Schematic
 
-![PCB Schematic](<PCB Schematic.png>)
+![PCB Schematic](https://github.com/aditiz16/12V-Dual-Power-Supply/assets/97452643/e4fac4f3-5fdb-4476-b7f9-e4a6d494d7ca)
+
 
 ## PCB Layout
 
-![PCB LAyout](<PCB Layout .png>)
+![PCB Layout ](https://github.com/aditiz16/12V-Dual-Power-Supply/assets/97452643/4a7702a1-c4b5-4008-9c1a-2ce41cb74e89)
 
 Check out the whole project in the PCB files of this Repository !
